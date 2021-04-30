@@ -1,5 +1,5 @@
 # Sales Data Analysis SQL Project
-#### Project Objective:
+#### Project Objective
 The goal of this project is discover data driven insights that will be used to help drive frontline sales strategy, educate stakeholders, and improve the overall performance of the sales team. The three key steps used to provide such insigth included data collection/generation via an API and Excel, exploratory SQL analysis, and the creation of multiple Tableau dashboards.
 
 #### Job Description
@@ -9,7 +9,9 @@ In terms of the job description, the Sales Data Analyst role at square is lookin
 
 #### Data
 The company names and locations I used for this project were pulled via the Cruchbase search API, details are below:
+
 Crunchbase home page: https://www.crunchbase.com/home
+
 API documentation: https://data.crunchbase.com/docs/using-the-api
 
 The rest of the data was randomly generated using Excel.
